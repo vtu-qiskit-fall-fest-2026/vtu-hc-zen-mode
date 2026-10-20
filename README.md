@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Zen-mode** · Team ID `VTU-QFF-HC-0129` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Zen-mode)
+[⬆ Back to Top](#zen-mode)
 
 </div>
